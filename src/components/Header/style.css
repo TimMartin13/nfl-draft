@@ -1,0 +1,30 @@
+#pageHeader {
+	max-height: 80px;
+	background-color:#4f2683;
+    color: white;
+	/* width: 100%; */
+	padding: 0em 1em 1em 2em;
+	margin:0em 0em 0em 0em;
+}
+
+.logo {
+    text-decoration: none;
+	color: white;
+	font-family: 'Cinzel', serif !important;
+	font-weight: 700;
+	margin-bottom: 0;
+	margin-top: .5em;
+}
+
+.logo:hover {
+    color: white;
+	text-decoration: none;
+}
+
+#tagLine {
+    color: #92969d;
+    font-family: 'Cinzel', serif;
+    font-weight: 400;
+    font-size: 1em;
+    padding-left: 30px;
+  }
